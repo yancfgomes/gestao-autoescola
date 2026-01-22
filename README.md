@@ -28,5 +28,11 @@ Com base nas métricas de desenvolvimento deste projeto, o próximo passo será:
 - Modelagem de Dados (MER) documentada.
 - Implementação de Dashboard de análise de desempenho (KPIs).
 
+## Imagens 
+
+![Home](assets/home.png)
+![Alunos](assets/alunos.png)
+![Aulas](assets/aulas.png)
+
 ---
 *Projeto desenvolvido para fins de portfólio e estudo de tecnologias Fullstack.*
